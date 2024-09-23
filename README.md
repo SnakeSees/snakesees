@@ -65,8 +65,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/snakesees/snakesees/output/snake.svg" alt="Snake animation" />
+<!-- 
+<img src="https://raw.githubusercontent.com/snakesees/snakesees/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
